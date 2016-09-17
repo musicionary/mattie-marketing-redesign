@@ -7,4 +7,4 @@ Live site at http://www.mattiemontgomery.com
 License
 -------
 
-MIT License. Copyright &copy; 2016 "Noah Ramey"
+MIT License. Copyright &copy; 2016 "Chip Carnes"
