@@ -1,0 +1,150 @@
+/*
+* CSS for the CaptainForm popup from Posts and Pages
+*/
+body {
+    overflow: hidden;
+}
+
+.captainform_body_class {
+    overflow: visible;
+}
+
+.captainform_spinner {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.captainform_widget_container {
+    font-family: Arial;
+    font-size: 14px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+
+#captainform-insert-dialog-body,
+.captainform_widget_container,
+.captainform_widget_container b,
+.captainform_widget_container p,
+.captainform_widget_container div,
+.captainform_widget_container span {
+    white-space: normal !important;
+}
+
+#captainform_form_toembed,
+#captainform_form_toembed_chosen {
+    margin-right: 5px;
+    margin-top: 15px;
+    float: left;
+    min-height: 25px;
+    min-width: 100px;
+    min-width: initial;
+}
+
+#captainform_form_toembed_chosen .chosen-single {
+	background: url('../images/dropdownarrow.png');
+	background-position: right 5px center;
+	background-repeat: no-repeat;
+	background-size: 10px;
+}
+
+#captainform_form_toembed_button {
+	margin-top: 15px;
+	height: 25px;
+	background: #25a7c1;
+	color: #fff;
+	font-weight: 600;
+	border-radius: 3px;
+}
+
+.captainform_widget_container input[type=text]{
+	border-radius: 3px;
+    border: 1px solid #b6b6b6;
+    color: #303030;
+    font-size: 14px;
+    height: auto;
+    padding: 7px;
+    width: 300px;
+	border-top: 1px solid #b6b6b6;
+    border-left: 1px solid #b6b6b6;
+    border-bottom: 1px solid #dadada;
+    border-right: 1px solid #dadada;
+	outline: 0;
+}
+
+.cf_trigger_option {
+    padding: 5px;
+
+}
+
+.cf_trigger_selected_option_container .left {
+    width: 30%;
+}
+
+.cf_trigger_selected_option_container .right {
+    width: 70%;
+}
+
+.cf_trigger_selected_option_container .right input[type=text] {
+    width: 100%;
+}
+
+.cf_trigger_selected_option_container {
+    padding: 0 10px;
+}
+
+.cf_trigger_2_time {
+    width: 80px !important;
+}
+
+.lightbox_trigger {
+    padding: 0px;
+}
+
+#captainform_form_toembed_button {
+    display: inline-block;
+    float: left;
+    background: #25A7C1 !important;
+    box-shadow: 0px 2px 0px 0.00px #005a70;
+    color: #FFF;
+    cursor: pointer;
+    border-radius: 3px !important;
+    -moz-border-radius: 3px !important;
+    -webkit-border-radius: 3px !important;
+    padding: 0px 15px 0px 15px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+    height: 29px;
+    line-height: 30px;
+}
+
+.captainform_seconds {
+    float: left;
+    padding: 6px;
+}
+
+.cf_trigger_selected_option.cf_trigger_2_time {
+    float: left;
+}
+
+.chosen-single {
+    height: 29px !important;
+}
+
+.chosen-single span:first-child {
+    line-height: 30px !important;
+}
+
+#captainform-insert-dialog-body {
+    overflow: hidden;
+    overflow-y: visible;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#captainform_publish_lightbox_main_container {
+    width: 100%;
+    float: left;
+}

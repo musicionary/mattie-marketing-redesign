@@ -1,0 +1,45 @@
+------- 1.2.3 [07-Jul-2016] -------
+================================================================
+Fixed		:	Google MAP API key
+
+------- 1.2.2 [05-Apr-2016] -------
+================================================================
+Fixed		:	Image option return to default if image deleted
+Fixed		:	tesla_locate_uri function to look into plugin also
+
+------- 1.2.1 [25-Mar-2016] -------
+================================================================
+Fixed		:	Framework Urls
+Added		:	Helper Functions if(!function_exists('...'))
+
+------- 1.2 [25-Mar-2016] -------
+================================================================
+Added		:	Twitter API error handling
+Update		:	Fw version 1.9.7 sync
+Added		:	Widgets Import
+Added		:	Import Progress
+Fixed		:	Map pointer
+Fixed		:	Theme Options dependencies (for hide/show actions)
+Fixed		:	check multisite WC
+Fixed		:	changing shadow url .png.png because of antivirus false positives
+
+------- 1.1.6 [22-Dec-2015] -------
+================================================================
+Added		:	New design to import pages
+Added		:	Import chunked XML files
+
+------- 1.1.4 [26-Nov-2015] -------
+================================================================
+Added		:	Action for themes to hook when initialized
+
+------- 1.1 [28-Oct-2015] -------
+================================================================
+Changed		:	All TeslaFramework functionality moved to plugin
+
+------- 1.0.1 [28-Oct-2015] -------
+================================================================
+Changed		:	More TeslaFramework functionality moved to plugin
+
+------- 1.0.0 Release [27-May-2015] -------
+================================================================
+! Changelog Creation

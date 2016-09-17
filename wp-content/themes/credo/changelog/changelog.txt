@@ -1,0 +1,50 @@
+Version 1.1.2 - Updated: 09.06.2016
+================================================
+Fixed	: Logo Alignment
+
+Version 1.1.1 - Updated: 24.05.2016
+================================================
+Fixed	: Sidebar position issue
+
+Version 1.1.0 - Updated: 25.04.2016
+================================================
+Update	: Visual Composer plugin update 4.11.2
+
+Version 1.0.9 - Updated: 10.02.2016
+================================================
+Fixed	: Carousel fixes on responsive 
+
+Version 1.0.8 - Updated: 28.01.2016
+================================================
+Update	: Demo Content Update
+
+Version 1.0.7 - Updated: 18.01.2016
+================================================
+Fixed	: Shortcodes
+
+Version 1.0.6 - Updated: 14.01.2016
+================================================
+Update	: Test Room Update
+
+Version 1.0.5 - Updated: 18.11.2015
+================================================
+Fixed	: TGMPA fix
+
+Version 1.0.4 - Updated: 17.11.2015
+================================================
+Fixed	: Theme minor fixes
+
+Version 1.0.3 - Updated: 10.11.2015
+================================================
+Fixed	: Revolution slider demo import
+
+Version 1.0.2 - Updated: 02.11.2015
+================================================
+Update	: Framework as Plugin
+
+Version 1.0.1 - Updated: 28.10.2015
+================================================
+Fixed	: Countdown shortcode fix
+
+Version 1.0.0 - Initial Release: 20.10.2015
+================================================

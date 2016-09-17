@@ -1,0 +1,123 @@
+.lightbox_trigger{
+	width: 100%;
+	box-sizing: border-box;
+	padding: 0 5px;
+	margin:5px 0px;
+	float: left;
+}
+.lightbox_trigger_text{
+	line-height: 20px;
+}
+.captainform_widget_container .chosen-container {
+	margin-bottom: 10px;
+	min-height: 25px;
+	width: 100% !important;
+}
+
+.captainform_widget_container .chosen-container-single .chosen-single {
+	background: url('../images/dropdownarrow.png');
+	background-position: right 5px center;
+	background-repeat: no-repeat;
+	background-size: 10px;
+}
+
+.widgets-sortables.ui-sortable .widget {
+	overflow: visible;
+}
+/*this is new */
+.cf_triggers_container{
+	padding: 0 5px;
+	display: none;
+}
+.cf_trigger_selected_option_title{
+	font-weight: bold;
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	
+	width: 100%;
+}
+.cf_lightbox_title{
+	width:100%;
+	font-weight: bold;
+	color: #000;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	float: left;
+}
+.cf_trigger_option{
+	padding: 5px;
+	box-sizing: border-box;
+	width: 100%;
+	float: left;
+}
+
+.cf_trigger_2_label{
+	margin-right: 5px;
+}
+.widget-content .cf_trigger_2_label{
+	float: left;
+	margin: 5px 0;
+	width: 100%;
+}
+@media(max-width : 785px){
+	.widget-content .left,
+	.widget-content .right{
+		width :100% !important;
+	}
+
+	.widget-content .cf_trigger_option{
+		padding: 5px;
+	}
+}
+.cf_trigger_selected_option_container{
+	display: none;
+	padding: 10px;
+	padding-top: 0px;
+}
+.cf_trigger_2_time{
+	width: 60px;
+}
+
+.cf_trigger_selected_option_container_big .left{
+	float:left;
+	display:table;
+	vertical-align: middle;
+	width: 40%;
+	padding: 5px 0;
+}
+.cf_trigger_selected_option_container_big .right{
+	float:left;
+	display: table;
+	width: 60%;
+	padding: 5px 0;
+	position: relative;
+}
+.cf_trigger_selected_option_container_big .clear{
+	clear:both;
+}
+.cf_trigger_selected_option_container_big .left .label{
+	display: inline-block;
+    vertical-align: middle;
+	line-height: 28px;
+}
+
+.cf_red_border{
+	border: 1px solid #f00 !important;
+}
+.colorpicker-color,
+.colorpicker-alpha{
+	display:none !important;
+}
+
+.cf_new_form_container{
+	width: 100%;
+	float:left;
+	margin: 10px;
+}
+
+.error_message_container{
+	width: 100%;
+    float: left;
+    margin: 15px 0px;
+}

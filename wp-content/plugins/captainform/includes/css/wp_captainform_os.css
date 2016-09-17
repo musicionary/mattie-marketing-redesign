@@ -1,0 +1,44 @@
+.captainform_popup_body{
+	-webkit-overflow-scrolling: touch;
+}
+
+.captainform_popup_body::-webkit-scrollbar {
+    -webkit-appearance: none;
+    -webkit-overflow-scrolling: touch;
+}
+
+.captainform_popup_body::-webkit-scrollbar:vertical {
+    width: 12px;
+}
+
+.captainform_popup_body::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    border: 1px solid white; /* should match background, can't be transparent */
+    background-color: rgba(111, 111, 111, .4);
+}
+
+.captainform_popup_body::-webkit-scrollbar-track { 
+    background-color: #F3F3F3; 
+} 
+
+.captainform_popup_body{ 
+    overflow: -moz-scrollbars-vertical;
+}
+.captainform_popup_body_form::-webkit-scrollbar {
+    -webkit-appearance: none;
+	-webkit-overflow-scrolling: touch;
+}
+.captainform_popup_body_form::-webkit-scrollbar:vertical {
+    width: 12px;
+}
+.captainform_popup_body_form::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    border: 1px solid white;
+    background-color: rgba(111, 111, 111, .4);
+}
+.captainform_popup_body_form::-webkit-scrollbar-track { 
+    background-color: #F3F3F3; 
+} 
+.captainform_popup_body_form{ 
+    overflow: -moz-scrollbars-vertical;
+}

@@ -1,0 +1,1741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Credo\n"
+"POT-Creation-Date: 2015-10-20 17:44+0300\n"
+"PO-Revision-Date: 2015-10-20 17:45+0300\n"
+"Last-Translator: \n"
+"Language-Team: TeslaThemes <hi@teslathemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: ../content-single.php:35
+msgid "Related Posts"
+msgstr ""
+
+#: ../content-single.php:63 ../post_format/post-meta.php:8
+#: ../theme_config/theme_shortcodes.php:191
+msgid "View"
+msgstr ""
+
+#: ../content-single.php:72 ../single.php:56
+msgid "No posts to display"
+msgstr ""
+
+#: ../footer.php:6
+msgid "Phone"
+msgstr ""
+
+#: ../footer.php:10
+msgid "Mail"
+msgstr ""
+
+#: ../footer.php:23 ../comments.php:19
+msgid "Enter your name"
+msgstr ""
+
+#: ../footer.php:26
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: ../footer.php:30
+msgid "Subscribe"
+msgstr ""
+
+#: ../comments.php:6
+msgid ""
+"This post is password protected. Enter the password to view any comments "
+msgstr ""
+
+#: ../comments.php:19
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:20
+msgid "Enter your email"
+msgstr ""
+
+#: ../comments.php:20
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:21
+msgid "Enter your website"
+msgstr ""
+
+#: ../comments.php:21
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:27
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Message"
+msgstr ""
+
+#: ../comments.php:30
+msgid "Write"
+msgstr ""
+
+#: ../comments.php:37
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:37
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments"
+msgstr ""
+
+#: ../archive.php:35
+msgid "Category Archives:"
+msgstr ""
+
+#: ../archive.php:36
+msgid "Post Tagged with:"
+msgstr ""
+
+#: ../archive.php:37 ../archive.php:38 ../archive.php:39
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:40
+msgid "Author Archives: "
+msgstr ""
+
+#: ../archive.php:41
+msgid "Archives"
+msgstr ""
+
+#: ../functions.php:71
+msgid "Main menu"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Search"
+msgstr ""
+
+#: ../functions.php:152
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:252 ../theme_config/views/event-view.php:72
+msgid "events"
+msgstr ""
+
+#: ../functions.php:261 ../theme_config/views/event-view.php:81
+msgid "Location:"
+msgstr ""
+
+#: ../functions.php:274 ../theme_config/views/event-view.php:94
+msgid "No events to display"
+msgstr ""
+
+#: ../functions.php:314 ../single-sermons.php:67
+msgid "sermon"
+msgstr ""
+
+#: ../functions.php:321
+msgid "No sermons to display"
+msgstr ""
+
+#: ../functions.php:416 ../functions.php:458
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:452
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:460
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:479
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:481
+msgid "Blog Sidebar Area"
+msgstr ""
+
+#: ../search.php:35
+msgid "Results for: "
+msgstr ""
+
+#: ../single-sermons.php:31
+msgid "Similar Sermons"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2376
+msgid "unknown"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../theme_config/subscription.php:6
+msgid "Please insert email"
+msgstr ""
+
+#: ../theme_config/subscription.php:8
+msgid "Invalid Email"
+msgstr ""
+
+#: ../theme_config/subscription.php:23
+msgid "Date"
+msgstr ""
+
+#: ../theme_config/subscription.php:24
+#: ../tesla_framework/core/tt_subscription.php:82
+msgid "No data received"
+msgstr ""
+
+#: ../theme_config/subscription.php:25
+msgid "Error writing to disk"
+msgstr ""
+
+#: ../theme_config/subscription.php:26
+msgid "Successfully Subscribed"
+msgstr ""
+
+#: ../theme_config/subscription.php:27
+msgid "Couldn't write to file"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:6
+msgid "Event Date & Time"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:21
+msgid "Page Settings"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:28 ../theme_config/meta-boxes.php:49
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:31 ../theme_config/meta-boxes.php:53
+msgid "No Sidebar/Full Width"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:32 ../theme_config/meta-boxes.php:54
+msgid "Right"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:33 ../theme_config/meta-boxes.php:55
+msgid "Left"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:42
+msgid "Post Settings"
+msgstr ""
+
+#: ../theme_config/meta-boxes.php:52
+msgid "Same as Blog Page"
+msgstr ""
+
+#: ../theme_config/theme_shortcodes.php:16
+msgid "days"
+msgstr ""
+
+#: ../theme_config/theme_shortcodes.php:18
+msgid "hours"
+msgstr ""
+
+#: ../theme_config/theme_shortcodes.php:20
+msgid "min"
+msgstr ""
+
+#: ../theme_config/theme_shortcodes.php:22
+msgid "sec"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:6
+msgid "Blue"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:7
+msgid "Turquoise"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:8
+msgid "Pink"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:9
+msgid "Violet"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:10
+msgid "Peacoc"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:11
+msgid "Chino"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:12
+msgid "Mulled Wine"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:13
+msgid "Vista Blue"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:14
+msgid "Black"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:15
+msgid "Orange"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:16
+msgid "Sky"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:17
+msgid "Green"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:18
+msgid "Juicy pink"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:19
+msgid "Sandy brown"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:20
+msgid "Purple"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:21
+msgid "White"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:25
+msgid "Mini"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:26
+msgid "Small"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:27
+msgid "Normal"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:28
+msgid "Large"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:36
+#: ../theme_config/vc_shortcodes/rewrite_map.php:52
+msgid "Icon library"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:38
+#: ../theme_config/vc_shortcodes/rewrite_map.php:54
+msgid "Font Awesome"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:39
+#: ../theme_config/vc_shortcodes/rewrite_map.php:55
+msgid "Open Iconic"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:40
+#: ../theme_config/vc_shortcodes/rewrite_map.php:56
+msgid "Typicons"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:41
+#: ../theme_config/vc_shortcodes/rewrite_map.php:57
+msgid "Entypo"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:42
+#: ../theme_config/vc_shortcodes/rewrite_map.php:58
+msgid "Linecons"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:43
+#: ../theme_config/vc_shortcodes/rewrite_map.php:59
+msgid "Tesla Icons"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:47
+#: ../theme_config/vc_shortcodes/rewrite_map.php:63
+msgid "Select icon library."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:71
+#: ../theme_config/vc_shortcodes/rewrite_map.php:88
+#: ../theme_config/vc_shortcodes/rewrite_map.php:104
+#: ../theme_config/vc_shortcodes/rewrite_map.php:120
+#: ../theme_config/vc_shortcodes/rewrite_map.php:135
+msgid "Icon"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:84
+#: ../theme_config/vc_shortcodes/rewrite_map.php:100
+#: ../theme_config/vc_shortcodes/rewrite_map.php:116
+#: ../theme_config/vc_shortcodes/rewrite_map.php:147
+msgid "Select icon from library."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:157
+msgid "CSS Animation"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:161
+msgid "No"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:162
+msgid "Top to bottom"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:163
+msgid "Bottom to top"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:164
+msgid "Left to right"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:165
+msgid "Right to left"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:166
+msgid "Appear from center"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:168
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:173
+#: ../theme_config/vc_shortcodes/rewrite_map.php:226
+msgid "Row"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:178
+#: ../theme_config/vc_shortcodes/rewrite_map.php:274
+msgid "Content"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:179
+#: ../theme_config/vc_shortcodes/rewrite_map.php:233
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:183
+msgid "Row stretch"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:186
+msgid "Default"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:187
+msgid "Stretch row"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:188
+msgid "Stretch row and content"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:189
+msgid "Stretch row and content without spaces"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:191
+msgid ""
+"Select stretching options for row and content. Stretched row overlay sidebar "
+"and may not work if parent container has overflow: hidden css property."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:195
+msgid "Row id"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:197
+msgid "Id used to trigger one page navigation"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:201
+msgid "Use parallax for this section?"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:203
+msgid ""
+"The parallax section will be activated by providing an image as background "
+"from CSS tab"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:204
+#: ../theme_config/vc_shortcodes/rewrite_map.php:300
+#: ../theme_config/vc_shortcodes/rewrite_map.php:307
+#: ../theme_config/vc_shortcodes/rewrite_map.php:775
+msgid "Yes, please"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:209
+#: ../theme_config/vc_shortcodes/rewrite_map.php:237
+#: ../theme_config/vc_shortcodes/rewrite_map.php:394
+#: ../theme_config/vc_shortcodes/rewrite_map.php:457
+#: ../theme_config/vc_shortcodes/rewrite_map.php:523
+#: ../theme_config/vc_shortcodes/rewrite_map.php:579
+#: ../theme_config/vc_shortcodes/rewrite_map.php:675
+#: ../theme_config/vc_shortcodes/rewrite_map.php:700
+#: ../theme_config/vc_shortcodes/rewrite_map.php:822
+#: ../theme_config/vc_shortcodes/rewrite_map.php:870
+#: ../theme_config/vc_shortcodes/rewrite_map.php:907
+#: ../theme_config/vc_shortcodes/rewrite_map.php:939
+msgid "Extra class name"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:211
+#: ../theme_config/vc_shortcodes/rewrite_map.php:239
+#: ../theme_config/vc_shortcodes/rewrite_map.php:525
+#: ../theme_config/vc_shortcodes/rewrite_map.php:581
+#: ../theme_config/vc_shortcodes/rewrite_map.php:677
+#: ../theme_config/vc_shortcodes/rewrite_map.php:702
+#: ../theme_config/vc_shortcodes/rewrite_map.php:824
+#: ../theme_config/vc_shortcodes/rewrite_map.php:872
+#: ../theme_config/vc_shortcodes/rewrite_map.php:909
+#: ../theme_config/vc_shortcodes/rewrite_map.php:941
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:216
+#: ../theme_config/vc_shortcodes/rewrite_map.php:243
+#: ../theme_config/vc_shortcodes/rewrite_map.php:464
+#: ../theme_config/vc_shortcodes/rewrite_map.php:586
+#: ../theme_config/vc_shortcodes/rewrite_map.php:682
+msgid "Css"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:219
+#: ../theme_config/vc_shortcodes/rewrite_map.php:246
+#: ../theme_config/vc_shortcodes/rewrite_map.php:466
+#: ../theme_config/vc_shortcodes/rewrite_map.php:589
+#: ../theme_config/vc_shortcodes/rewrite_map.php:685
+msgid "Design options"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:253
+msgid "1 column - 1/12"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:254
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:255
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:256
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:257
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:258
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:259
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:260
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:261
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:262
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:263
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:264
+msgid "12 columns - 1/1"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:270
+msgid "Custom Heading"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:275
+msgid "Text with Google fonts"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:279
+msgid "Text source"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:282
+msgid "Custom text"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:283
+msgid "Post or Page Title"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:286
+msgid "Select text source."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:290
+#: ../theme_config/vc_shortcodes/rewrite_map.php:420
+msgid "Text"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:293
+#: ../theme_config/vc_shortcodes/rewrite_map.php:423
+msgid "This is custom heading element"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:294
+#: ../theme_config/vc_shortcodes/rewrite_map.php:431
+msgid ""
+"If you are using non-latin characters be sure to activate them under "
+"Settings/Visual Composer/General Settings."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:294
+#: ../theme_config/vc_shortcodes/rewrite_map.php:432
+msgid ""
+"Note: If you are using non-latin characters be sure to activate them under "
+"Settings/Visual Composer/General Settings."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:298
+msgid "Make uppercase"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:301
+msgid "Transform text to uppercase"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:305
+msgid "No margin top"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:308
+msgid "Best for section titles, remove top space."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:312
+#: ../theme_config/vc_shortcodes/rewrite_map.php:510
+msgid "URL (Link)"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:314
+msgid "Add link to custom heading."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:332
+#: ../theme_config/vc_shortcodes/rewrite_map.php:446
+msgid "Select element tag."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:333
+#: ../theme_config/vc_shortcodes/rewrite_map.php:447
+msgid "Select text alignment."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:334
+#: ../theme_config/vc_shortcodes/rewrite_map.php:448
+msgid "Enter font size."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:335
+#: ../theme_config/vc_shortcodes/rewrite_map.php:449
+msgid "Enter line height."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:336
+#: ../theme_config/vc_shortcodes/rewrite_map.php:450
+msgid "Select color for your element."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:345
+msgid "Use theme default font family?"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:347
+msgid "Yes"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:348
+msgid "Use font family from the theme."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:353
+msgid "Select font weight"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:383
+msgid "Select font family."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:384
+msgid "Select font styling."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:396
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:400
+msgid "CSS box"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:403
+msgid "Design Options"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:412
+msgid "Tesla Section Header"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:415
+#: ../theme_config/vc_shortcodes/rewrite_map.php:477
+#: ../theme_config/vc_shortcodes/rewrite_map.php:535
+#: ../theme_config/vc_shortcodes/rewrite_map.php:599
+#: ../theme_config/vc_shortcodes/rewrite_map.php:654
+#: ../theme_config/vc_shortcodes/rewrite_map.php:695
+#: ../theme_config/vc_shortcodes/rewrite_map.php:737
+#: ../theme_config/vc_shortcodes/rewrite_map.php:833
+#: ../theme_config/vc_shortcodes/rewrite_map.php:892
+#: ../theme_config/vc_shortcodes/rewrite_map.php:918
+msgid "Teslathemes"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:416
+msgid "TT custom section header"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:427
+msgid "Heading description"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:430
+msgid "This is a small heading description"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:459
+msgid ""
+"Style particular content element differently - add a existing class name "
+"(black, white) or another custom class from CSS."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:474
+msgid "Tesla Member"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:478
+msgid "Team member"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:482
+msgid "Member Name"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:484
+msgid "Provide a name for team member element"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:489
+msgid "Member job location/position"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:491
+msgid "Provide job position for this member"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:496
+msgid "Member intro text"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:499
+msgid "Memeber intro text shown on hover"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:503
+msgid "Member image"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:506
+#: ../theme_config/vc_shortcodes/rewrite_map.php:551
+msgid "Select image from media library."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:512
+msgid "Member link."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:516
+msgid "Social networks"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:518
+msgid ""
+"Please provide social icon name from <a href=\"https://fortawesome.github.io/"
+"Font-Awesome/icons/\" target=\"_blank\">fontawesome</a> and social link. "
+"Example facebook|http://facebook.com"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:532
+msgid "Tesla Contact Item"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:536
+msgid "Tesla Contac Item, used for building contact page"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:540
+msgid "Title"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:542
+msgid "Provide a title for this element"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:548
+msgid "Image"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:556
+msgid "Location"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:559
+msgid "Insert here location"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:564
+msgid "Additional details"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:567
+msgid "Insert here additional information, ex: phone, email"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:572
+msgid "Contact Form ID"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:574
+msgid "Insert here contact form ID, which you created with <a href=\""
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:596
+#: ../theme_config/vc_shortcodes/rewrite_map.php:600
+msgid "Tesla Google Map"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:604
+msgid "Pins"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:606
+msgid ""
+"Insert here contact pins locations, click on \" + \" icon to add new pin. "
+"<br/><br/>\n"
+"\t\t\t\tGet the coordinates of a place you find on the map with your "
+"browser, like Chrome, Firefox, or Internet Explorer. <br/>\n"
+"\t\t\t\t\t1. Open <a href=\"https://maps.google.com/\" target=\"_blank"
+"\">Google Maps</a>. <br/>\n"
+"\t\t\t\t\t2. Right-click the place or area on the map. <br/>\n"
+"\t\t\t\t\t3. Select Whats here?  <br/>\n"
+"\t\t\t\t\t4. A card appears at the bottom of the screen with more info. <br/>"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:614
+msgid "51.225305"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:615
+msgid "10.225305"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:622
+msgid "Latitude"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:624
+msgid "Insert here google map latitude"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:630
+msgid "Longitude"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:632
+msgid "Insert here google map longidute"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:638
+msgid "Pin Icon"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:640
+msgid "Select pin from media library"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:651
+#: ../theme_config/vc_shortcodes/rewrite_map.php:655
+msgid "Tesla Gallery"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:659
+msgid "Images"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:662
+msgid "Select images from media library."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:667
+msgid "Gallery Max-Width"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:670
+msgid ""
+"Please insert a maximum width in PX for gallery section. Default will be "
+"used \"1600\""
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:692
+msgid "Tesla Breadcrumps"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:696
+msgid "Tesla Breadcrumbs"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:734
+#: ../theme_config/vc_shortcodes/rewrite_map.php:738
+msgid "Tesla Events"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:742
+msgid "Shortcode Style"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:744
+msgid "Single Column"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:745
+msgid "Multiple Columns"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:749
+msgid "Select shortcode style to display."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:754
+#: ../theme_config/vc_shortcodes/rewrite_map.php:839
+msgid "Columns"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:756
+#: ../theme_config/vc_shortcodes/rewrite_map.php:841
+msgid "2 Columns"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:757
+#: ../theme_config/vc_shortcodes/rewrite_map.php:842
+msgid "3 Columns"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:758
+#: ../theme_config/vc_shortcodes/rewrite_map.php:843
+msgid "4 Columns"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:759
+#: ../theme_config/vc_shortcodes/rewrite_map.php:844
+msgid "6 Columns"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:763
+msgid "Select numbers of columns. Default \"3 Columns\""
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:772
+msgid "Show Calendar?"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:774
+msgid "Check this if you want calendar with events to appear."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:785
+#: ../theme_config/vc_shortcodes/rewrite_map.php:854
+#: ../theme_config/vc_shortcodes/rewrite_map.php:923
+msgid "Default Category"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:788
+#: ../theme_config/vc_shortcodes/rewrite_map.php:857
+#: ../theme_config/vc_shortcodes/rewrite_map.php:926
+msgid "Select which category you want to display."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:797
+msgid "Nr. of events to show"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:800
+#: ../theme_config/vc_shortcodes/rewrite_map.php:934
+msgid "Please insert how much events you want to show. Default \"All\""
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:809
+msgid "Page URL"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:812
+msgid ""
+"Please insert page URL, where is located the single column shortcode of "
+"events."
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:830
+#: ../theme_config/vc_shortcodes/rewrite_map.php:834
+msgid "Tesla Sermons"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:848
+msgid "Select numbers of columns. Default \"4 Columns\""
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:862
+msgid "Nr. of sermons to show"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:865
+msgid ""
+"Please insert how much events you want to show. Default \"All\" with \"Load "
+"More\" button"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:889
+#: ../theme_config/vc_shortcodes/rewrite_map.php:893
+msgid "Tesla Event Countdown"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:898
+msgid "Post"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:901
+msgid "Select for which post you want to display countdown"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:915
+#: ../theme_config/vc_shortcodes/rewrite_map.php:919
+msgid "Tesla Blog Posts"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/rewrite_map.php:931
+msgid "Nr. of posts to show"
+msgstr ""
+
+#: ../theme_config/vc_shortcodes/vc_tab.php:6
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: ../theme_config/views/event-view.php:63
+msgid "All Events"
+msgstr ""
+
+#: ../theme_config/views/event-view.php:98
+#: ../theme_config/views/sermons-view.php:33
+msgid "Load More"
+msgstr ""
+
+#: ../theme_config/views/event-view.php:129
+msgid "event cover"
+msgstr ""
+
+#: ../theme_config/views/sermons-view.php:23
+msgid "sermont"
+msgstr ""
+
+#: ../theme_config/views/contact_form/submit.php:4
+msgid "Sending Message"
+msgstr ""
+
+#: ../theme_config/views/contact_form/submit.php:5
+msgid "Message Successfully Sent"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:10
+msgid "A list of latest tweets."
+msgstr ""
+
+#: ../widgets/widget-twitter.php:48 ../widgets/widget-instagram.php:46
+#: ../tesla_framework/widgets/instagram.php:42
+#: ../tesla_framework/widgets/twitter.php:64
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:49 ../tesla_framework/widgets/twitter.php:70
+msgid "Twitter user:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:51 ../tesla_framework/widgets/twitter.php:76
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:55
+msgid "Don't forget to configure the twitter in the Framework."
+msgstr ""
+
+#: ../widgets/widget-instagram.php:10
+msgid "A list of instagram images."
+msgstr ""
+
+#: ../widgets/widget-instagram.php:47
+msgid "Instagram user:"
+msgstr ""
+
+#: ../widgets/widget-instagram.php:49
+msgid "Number of images to show:"
+msgstr ""
+
+#: ../tesla_framework/widgets/instagram.php:13
+msgid "Instagram feed."
+msgstr ""
+
+#: ../tesla_framework/widgets/instagram.php:35
+msgid "Instagram"
+msgstr ""
+
+#: ../tesla_framework/widgets/instagram.php:45
+msgid "Image nr:"
+msgstr ""
+
+#: ../tesla_framework/widgets/instagram.php:48
+msgid "Username:"
+msgstr ""
+
+#: ../tesla_framework/widgets/instagram.php:51
+msgid "Cache Hours:"
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:10
+msgid "Twitter feed."
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:50
+msgid "Twitter"
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:80
+msgid "Visit"
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:80
+msgid "Twitter Apps"
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:80
+msgid ""
+"create your App; press 'Create Access token' at the bottom; insert the "
+"following from the 'Keys and Access Tokens' tab."
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:83
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:89
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:95
+msgid "Access Token:"
+msgstr ""
+
+#: ../tesla_framework/widgets/twitter.php:101
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../tesla_framework/core/tt_subscription.php:69
+msgid "Subscribed"
+msgstr ""
+
+#: ../tesla_framework/core/tt_subscription.php:71
+msgid "Error"
+msgstr ""
+
+#: ../tesla_framework/core/tt_subscription.php:75
+msgid "MailChimp Error"
+msgstr ""
+
+#: ../tesla_framework/core/tt_subscription.php:110
+msgid "No API key for mailchimp"
+msgstr ""
+
+#: ../tesla_framework/core/tt_subscription.php:124
+msgid "Not a valid mailchimp api key."
+msgstr ""
+
+#: ../tesla_framework/core/teslaframework.php:37
+msgid "Simple Meta Box fields"
+msgstr ""
+
+#: ../tesla_framework/core/tesla_slider.php:1236
+#: ../tesla_framework/core/tesla_slider.php:1249
+#: ../tesla_framework/core/tesla_slider.php:1269
+msgid "Order"
+msgstr ""
+
+#: ../tesla_framework/core/tesla_slider.php:1238
+#: ../tesla_framework/core/tesla_slider.php:1252
+msgid "Set the order in which the categories should be displayed."
+msgstr ""
+
+#: ../tesla_framework/core/tt_contact_form.php:69
+msgid "From "
+msgstr ""
+
+#: ../tesla_framework/core/tt_contact_form.php:69
+msgid " Contact Form "
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:21
+msgid "Documentation"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:24
+msgid "Support"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:27
+msgid "Latest News"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:31
+msgid " Version "
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:32
+msgid "Framework "
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:32
+msgid "Version "
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:33
+msgid "Check Updates"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:35
+msgid "View Changelog"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:36
+msgid "Import Demo Options"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:38
+msgid "Manage Contact Forms"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:57 ../tesla_framework/views/admin.php:85
+#: ../tesla_framework/views/admin.php:119
+#: ../tesla_framework/views/admin.php:161
+#: ../tesla_framework/views/options/button.php:5
+#: ../tesla_framework/views/options/image_upload.php:13
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:141
+#: ../tesla_framework/extensions/meta-box-class/my-meta-box-class.php:438
+#: ../tesla_framework/extensions/meta-box-class/my-meta-box-class.php:477
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:629
+msgid "Remove"
+msgstr ""
+
+#: ../tesla_framework/views/admin.php:159
+msgid "Save Changes"
+msgstr ""
+
+#: ../tesla_framework/views/options/text.php:45
+msgid "Text Logo Preview"
+msgstr ""
+
+#: ../tesla_framework/views/options/image_upload.php:15
+msgid "Upload Image"
+msgstr ""
+
+#: ../tesla_framework/views/options/image_upload.php:17
+msgid "Remove Image"
+msgstr ""
+
+#: ../tesla_framework/views/options/image_upload.php:19
+msgid "Preview"
+msgstr ""
+
+#: ../tesla_framework/extensions/meta-box-class/my-meta-box-class.php:450
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:595
+msgid "Add"
+msgstr ""
+
+#: ../tesla_framework/extensions/meta-box-class/my-meta-box-class.php:804
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:947
+msgid "Select a color"
+msgstr ""
+
+#: ../tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1884
+#: ../tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1892
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:882
+msgid "Delete"
+msgstr ""
+
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr ""
+
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:889
+msgid "Upload new files"
+msgstr ""
+
+#: ../tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:895
+msgid "Add more files"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/parsers.php:43
+#: ../tesla_framework/extensions/autoimport/parsers.php:75
+#: ../tesla_framework/extensions/autoimport/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/parsers.php:87
+#: ../tesla_framework/extensions/autoimport/parsers.php:92
+#: ../tesla_framework/extensions/autoimport/parsers.php:283
+#: ../tesla_framework/extensions/autoimport/parsers.php:473
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:145
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:153
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:235
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:239
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:248
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:146
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:240
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:256
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:280
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:340
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:391
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:431
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:477
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:618
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:503
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:525
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:584
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../tesla_framework/extensions/autoimport/autoimporter.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../tesla_framework/helpers/instagram.php:101
+msgid "No username inserted in instagram widget"
+msgstr ""
